@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import _ from 'lodash';
 import 'semantic-ui-css/semantic.min.css';
-import * as PuzzleUtil from './puzzleUtil';
+import * as PuzzleUtil from '../utils/puzzleUtil';
 import { Clickable } from 'react-clickable';
+import { withRouter } from 'react-router-dom';
 
 class Puzzle extends Component {
   constructor(props) {
@@ -223,7 +224,7 @@ class Puzzle extends Component {
           () => {
             removeClass();
             if (isOver) {
-              alert('!YouWON');
+              this.props.history.push('/won');
             }
           },
         );
@@ -298,4 +299,4 @@ class Puzzle extends Component {
   }
 }
 
-export default Puzzle;
+export default withRouter(Puzzle);
