@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Route, Redirect, Link } from 'react-router-dom';
+import { HashRouter as Router, Route, Redirect, Link } from 'react-router-dom';
 import Store from './store';
 import SplashScreen from './screens/SplashScreen';
 import Login from './screens/Login';
