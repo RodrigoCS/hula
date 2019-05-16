@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hula/static/css/main.56932ba0.chunk.css",
+    "main.js": "/hula/static/js/main.b14e9aac.chunk.js",
+    "main.js.map": "/hula/static/js/main.b14e9aac.chunk.js.map",
+    "runtime~main.js": "/hula/static/js/runtime~main.13cacff2.js",
+    "runtime~main.js.map": "/hula/static/js/runtime~main.13cacff2.js.map",
+    "static/css/2.9e518952.chunk.css": "/hula/static/css/2.9e518952.chunk.css",
+    "static/js/2.4d80f24d.chunk.js": "/hula/static/js/2.4d80f24d.chunk.js",
+    "static/js/2.4d80f24d.chunk.js.map": "/hula/static/js/2.4d80f24d.chunk.js.map",
+    "index.html": "/hula/index.html",
+    "precache-manifest.08362bd984909a44cd469fadbcffde23.js": "/hula/precache-manifest.08362bd984909a44cd469fadbcffde23.js",
+    "service-worker.js": "/hula/service-worker.js",
+    "static/css/2.9e518952.chunk.css.map": "/hula/static/css/2.9e518952.chunk.css.map",
+    "static/css/main.56932ba0.chunk.css.map": "/hula/static/css/main.56932ba0.chunk.css.map",
+    "static/media/semantic.min.css": "/hula/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
