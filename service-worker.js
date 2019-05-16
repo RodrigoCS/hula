@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/hula/precache-manifest.9179284c7d22087f58b2b5c70f337965.js"
+  "/hula/precache-manifest.ad4159cfda743dd2cdfeddc251e6993a.js"
 );
 
 self.addEventListener('message', (event) => {
