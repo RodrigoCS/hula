@@ -86,7 +86,6 @@ function Game(props) {
               size={window.innerWidth - 100}
             />
             {renderFacebookButton()}
-
             <Message style={{ marginTop: 20 }}>
               {game && game.message2}
             </Message>

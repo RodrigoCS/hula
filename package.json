@@ -2,6 +2,7 @@
   "name": "hula",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://rodrigocs.github.io/hula",
   "dependencies": {
     "@brainhubeu/react-carousel": "^1.10.17",
     "@fortawesome/fontawesome-free": "^5.8.1",
