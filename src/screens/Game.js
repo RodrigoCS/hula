@@ -64,7 +64,7 @@ function Game(props) {
               {game && game.message1}
             </Message>
             <Countdown
-              date={Date.now() + 1000 * 1 * 5}
+              date={Date.now() + 1000 * 60 * 5}
               intervalDelay={0}
               precision={3}
               renderer={({ completed, total }) => {
