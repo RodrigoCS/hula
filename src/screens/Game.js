@@ -85,7 +85,7 @@ function Game(props) {
               image={`images/puzzle${background}.png`}
               size={window.innerWidth - 100}
             />
-            {renderFacebookButton()}
+            {/* {renderFacebookButton()} */}
             <Message style={{ marginTop: 20 }}>
               {game && game.message2}
             </Message>
