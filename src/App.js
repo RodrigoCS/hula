@@ -101,7 +101,7 @@ function App() {
           games,
         }}
       >
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <Route path='/' exact component={SplashScreen} />
           <Route path='/login/' component={Login} />
           <Route path='/selection/' component={props => checkAuth(props, Selection)} />
