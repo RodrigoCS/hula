@@ -82,7 +82,7 @@ function Game(props) {
               solvePuzzle={solvePuzzle}
               newPuzzle={newPuzzle}
               maxIterations={300}
-              image={`/images/puzzle${background}.png`}
+              image={`images/puzzle${background}.png`}
               size={window.innerWidth - 100}
             />
             {renderFacebookButton()}

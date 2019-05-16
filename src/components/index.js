@@ -5,7 +5,7 @@ import { PURPLE, LIGHT_PURPLE } from '../utils/colors';
 export const Background = styled.div`
   min-height: 100vh;
   background-size: 100%;
-  background-image: url('/images/background.png');
+  background-image: url('images/background.png');
   display: flex;
   align-items: center;
   justify-content: center;
@@ -33,7 +33,7 @@ export const Logo = styled.img`
 `;
 
 Logo.defaultProps = {
-  src: '/images/logo.svg',
+  src: 'images/logo.svg',
 };
 
 export const Icon = styled.div`
@@ -45,7 +45,7 @@ export const Icon = styled.div`
 `;
 
 Icon.defaultProps = {
-  src: '/images/icon.svg',
+  src: 'images/icon.svg',
 };
 
 export const Header = styled.div`
@@ -72,7 +72,7 @@ export const Panel = styled.div`
 `;
 
 Panel.defaultProps = {
-  src: '/images/panel-bg.png',
+  src: 'images/panel-bg.png',
 };
 
 export const H1 = styled.h1`

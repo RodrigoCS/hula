@@ -15,7 +15,7 @@ export default withRouter(function Prize({ history }) {
       <VerticalCenter>
         <ModalBox>
           ¡Felicidades!
-          <img style={{ position: 'absolute' }} src='/images/price.svg' />
+          <img style={{ position: 'absolute' }} src='images/price.svg' />
           <Button onClick={handleClaim}>Obtener premio</Button>
         </ModalBox>
       </VerticalCenter>

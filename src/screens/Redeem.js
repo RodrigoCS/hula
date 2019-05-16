@@ -15,9 +15,9 @@ export default withRouter(function Prize({ history }) {
       <VerticalCenter>
         <ModalBox>
           Postre gratis
-          <img width={100} src='/images/cupcake.svg' />
+          <img width={100} src='images/cupcake.svg' />
           <Button onClick={handleOut}>231015</Button>
-          <img width={'100%'} src='/images/barcode.svg' />
+          <img width={'100%'} src='images/barcode.svg' />
         </ModalBox>
       </VerticalCenter>
     </Container>

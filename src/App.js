@@ -19,17 +19,17 @@ function App() {
   const [selectedGame, setSelectedGame] = useState();
   const games = [
     {
-      url: '/images/p1.svg',
+      url: 'images/p1.svg',
       message1: 'Ordena las partes para completar la imagen antes de que el tiempo se agote',
       message2: '!Estas jugando por un postre gratis!',
     },
     {
-      url: '/images/p2.svg',
+      url: 'images/p2.svg',
       message1: 'Ordena las partes para completar la imagen antes de que el tiempo se agote',
       message2: '!Estas jugando por un postre gratis!',
     },
     {
-      url: '/images/p3.svg',
+      url: 'images/p3.svg',
       message1: 'Ordena las partes para completar la imagen antes de que el tiempo se agote',
       message2: '!Estas jugando por un postre gratis!',
     },
