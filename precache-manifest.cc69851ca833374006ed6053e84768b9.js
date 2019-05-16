@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11e66229488b47404f5da3e748d503c9",
+    "revision": "d4c39f5ba0648027ea5236c3f6e52c1b",
     "url": "/hula/index.html"
   },
   {
-    "revision": "797fa9df2fcc41896863",
+    "revision": "09743662ad689e9268ae",
     "url": "/hula/static/css/2.9e518952.chunk.css"
   },
   {
-    "revision": "0e549273c20e2953664c",
+    "revision": "dd577b5701a5ebb01c26",
     "url": "/hula/static/css/main.56932ba0.chunk.css"
   },
   {
-    "revision": "797fa9df2fcc41896863",
-    "url": "/hula/static/js/2.4d80f24d.chunk.js"
+    "revision": "09743662ad689e9268ae",
+    "url": "/hula/static/js/2.5451346b.chunk.js"
   },
   {
-    "revision": "0e549273c20e2953664c",
-    "url": "/hula/static/js/main.aead400c.chunk.js"
+    "revision": "dd577b5701a5ebb01c26",
+    "url": "/hula/static/js/main.58cd1a53.chunk.js"
   },
   {
     "revision": "745e1dd11e1c6c5ad71d",
